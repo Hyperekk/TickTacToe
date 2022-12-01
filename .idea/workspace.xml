@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd946f2-59ca-4b4a-8c45-49b81b4cb27d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bartt/cosconiewyjdzie/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bartt/cosconiewyjdzie/HelloApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bartt/cosconiewyjdzie/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bartt/cosconiewyjdzie/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/bartt/cosconiewyjdzie/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/bartt/cosconiewyjdzie/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bartt/IdeaProjects/cosCoNieWyjdzie"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1669463053151</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dzialaja guziczki">
+      <created>1669465636763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669465636763</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="przed rozpoczeciem" />
-    <option name="LAST_COMMIT_MESSAGE" value="przed rozpoczeciem" />
+    <MESSAGE value="dzialaja guziczki" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzialaja guziczki" />
   </component>
 </project>
